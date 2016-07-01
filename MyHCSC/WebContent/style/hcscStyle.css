@@ -1,5 +1,6 @@
 .07/01_Training {
 	display: block;
+	align-content:flex-start;
 }
 .CommandLineClient {
 }
