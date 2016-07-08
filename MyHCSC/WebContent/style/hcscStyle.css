@@ -1,5 +1,7 @@
 .0708_Training {
-	
+	align-content:flex-start;
+	align-items:flex-start;
+	alignment-adjust:after-edge;	
 }
 .SomeChangesToMaster {
 	
