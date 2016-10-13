@@ -1,3 +1,6 @@
+master1013 {
+	someattribute:somevalue;
+}
 header, section, footer, aside, nav, article, figure, figcaption {
 	display: block;}
 body {
